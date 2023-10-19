@@ -10,4 +10,4 @@
 
 ### Ejercicio 5:
 
-![ej5](Ej5.gif)
+![ej5](Ej5.png)
