@@ -2,11 +2,11 @@
 
 ### Ejercicio 3:
 
-![ej3](Ej3.gif)
+![ej3](ej3.gif)
 
 ### Ejercicio 4:
 
-![ej4](Ej4.gif)
+![ej4](ej4.gif)
 
 ### Ejercicio 5:
 
