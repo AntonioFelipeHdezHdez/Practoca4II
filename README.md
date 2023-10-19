@@ -1,6 +1,6 @@
 # Practoca4II
 
-### Ejercicio 3:
+### Ejercicios 1,2 y 3:
 
 ![ej3](ej3.gif)
 
